@@ -50,13 +50,13 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "https://github.com/darkmakerofc/QueenElisa/fork"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70"> </a>
+<a href = "https://github.com/darkmakerofc/QueenElisa/fork">
 </br>
 
 ## 2. GET SESSION ID
 <a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
     OR   
-<a href = "https://gpt-qr-code.onrender.com/pair"> <img src = "/repo-data/elisa scan pair code.svg" width="150" height="70" > </a></br>
+<a href = "https://gpt-qr-code.onrender.com/pair">  <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a></br>
 </br>
     OR
     
