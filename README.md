@@ -56,7 +56,7 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 ## 2. GET SESSION ID
 <a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
     OR   
-<a href = "[https://queen-elisa-qr-pair.onrender.com/](https://gpt-qr-code.onrender.com/pair)"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
+<a href = "[[https://queen-elisa-qr-pair.onrender.com](https://gpt-qr-code.onrender.com/pair)/]"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
 </br>
     OR
     
